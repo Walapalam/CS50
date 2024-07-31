@@ -1,2 +1,3 @@
 # CS50
-CS50 Code Files
+This repository contains all the CS50 codes that i have worked on :)
+
