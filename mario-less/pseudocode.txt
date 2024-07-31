@@ -1,0 +1,1 @@
+Ask the user for height, of the input height is less than 8 and greater than 8, iterate from i through height.

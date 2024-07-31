@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Fastest Sort from the three
+
+sort2 uses: Merge Sort
+
+How do you know?: Lowest Sys Run Time
+
+sort3 uses: Selection Sort
+
+How do you know?: Fastest for the smaller sets, slower for larger sets.

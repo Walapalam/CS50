@@ -1,0 +1,15 @@
+Player Name: John
+
+Attempt 1
+John's Life Score is: 41
+John's Life Score is: 4120 27 88 68 49 
+Select a number to fight:John
+
+No Such Enemy
+gameStatus(playerName, lifeScore, attempt)
+
+Select a number to fight: None
+Select a number to fight:invalid
+
+No Such Enemy
+gameStatus(playerName, lifeScore, attempt)
